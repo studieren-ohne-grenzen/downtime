@@ -16,8 +16,9 @@ body {
 .content {
 	position:absolute;
 	top: 48%;
+  left: 40%;
   width: 20%;
   min-width: 200px;
-  margin: 0 auto;
+  background: rgba(255,255,255,0.8);
   font-style: sans-serif;
 }
