@@ -18,5 +18,6 @@ body {
 	top: 48%;
   width: 20%;
   min-width: 200px;
+  margin: 0 auto;
   font-style: sans-serif;
 }
